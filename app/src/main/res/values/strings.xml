@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Information Book</string>
+
+    <string name="country_flags">CountryFlags</string>
+    <string name="uk">
+        <b>Capital:</b>\t London \n
+        <b>Largest City:</b>\t London \n
+        <b>National Language:</b>\t English \n
+        <b>Total Area:</b>\t 243,610 km² \n
+        <b>Currency:</b>\t GBP \n\n
+        The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the north-western coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland. It includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea, and the Irish Sea. The total area of the United Kingdom is 94,060 square miles (243,610 km2), with an estimated 2022 population of nearly 67 million people.\n\n
+        The United Kingdom has evolved from a series of annexations, unions and separations of constituent countries over several hundred years. The Treaty of Union between the Kingdom of England (which included Wales) and the Kingdom of Scotland in 1707 resulted in their unification to become the Kingdom of Great Britain. Its union in 1801 with the Kingdom of Ireland created the United Kingdom of Great Britain and Ireland. Most of Ireland seceded from the UK in 1922, leaving the present United Kingdom of Great Britain and Northern Ireland, which formally adopted its name in 1927. The nearby Isle of Man, Guernsey and Jersey are not part of the UK, being Crown Dependencies, but the British government is responsible for their defence and international representation.\n\n
+        The UK became the first industrialised country and was the world\s foremost power for the majority of the 19th and early 20th centuries, particularly during the \"Pax Britannica\" between 1815 and 1914. The British Empire, at its height in the 1920s, encompassed almost a quarter of the world\'s landmass and population, and was the largest empire in history; however, its involvement in the First World War and the Second World War damaged Britain\s economic power and a global wave of decolonisation led to the independence of most British colonies. British influence can be observed in the legal and political systems of many of its former colonies, and the UK\'s culture remains globally influential, particularly in literature, language, music and sport. English is the world\'s most widely spoken language and the third-most spoken native language.\n\n
+        The United Kingdom is a constitutional monarchy and parliamentary democracy. The capital and largest city of the United Kingdom (as well as the capital of England) is London. The cities of Edinburgh, Cardiff, and Belfast are respectively the national capitals of Scotland, Wales, and Northern Ireland. Other major cities include Birmingham, Manchester, Glasgow, and Leeds. The UK consists of three distinct legal jurisdictions: England and Wales, Scotland, and Northern Ireland. This is due to these areas retaining their existing legal systems even after joining the UK. Since 1998, Scotland, Wales, and Northern Ireland also have their own devolved governments and legislatures, each with varying powers.\n\n
+        The UK has the world\'s sixth-largest economy by nominal gross domestic product (GDP), and the ninth-largest by purchasing power parity. It is a recognised nuclear state and is ranked fourth globally in military expenditure. The UK has been a permanent member of the UN Security Council since its first session in 1946. It is a member of the Commonwealth of Nations, the Council of Europe, the G7, the OECD, NATO, the Five Eyes, AUKUS and the CPTPP.\n
+    </string>
+    <string name="us">
+        <b>Capital:</b>\t Washington D.C. \n
+        <b>Largest City:</b>\t New York City \n
+        <b>National Language:</b>\t English \n
+        <b>Total Area:</b>\t 9.83 million km² \n
+        <b>Currency:</b>\t USD \n\n
+        The United States of America (USA or U.S.A.), commonly known as the United States (US or U.S.) or America, is a country primarily located in North America. The third-largest country in the world by land and total area, the U.S. consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands and includes 326 Indian reservations. It shares land borders with Canada to its north and with Mexico to its south and has maritime borders with several other countries. With a population of over 334 million, it is the most populous country in the Americas and the third-most populous in the world. The national capital of the United States is Washington, D.C., and its most populous city and principal financial center is New York City.\n\n
+        Ancestors of America\'s indigenous peoples migrated across the Bering land bridge more than 12,000 years ago. Beginning in 1607, British colonization led to the establishment of the Thirteen Colonies in what is now the Eastern United States. They clashed with the British Crown over taxation and political representation, which led to the American Revolution and the ensuing Revolutionary War. The United States declared independence on July 4, 1776, and went on to become the first country founded on Enlightenment principles of unalienable natural rights, consent of the governed, and republicanism.\n\n
+        Following a series of treaties, conflicts, and acquisitions, the United States expanded across North America. As more states were admitted, sectional division over slavery led to the secession of the Confederate States of America, which fought the remaining states of the Union during the American Civil War (1861–65). With the Union\'s victory and preservation, slavery was abolished nationally, but relations between different races remained problematic. Industrialization during the late 19th and early 20th centuries led to rapid economic development but also socioeconomic disparities that prompted calls for reforms.\n
+    </string>
+    <string name="france">
+        <b>Capital:</b>\t Paris \n
+        <b>Largest City:</b>\t Paris \n
+        <b>National Language:</b>\t French \n
+        <b>Total Area:</b>\t 643.80K km² \n
+        <b>Currency:</b>\t EUR \n\n
+        France, officially the French Republic, is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the Atlantic, Pacific and Indian oceans, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the north east, Switzerland to the east, Italy and Monaco to the south east, Andorra and Spain to the south, and a maritime border with the United Kingdom to the north west. Its overseas territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Its eighteen integral regions span a combined area of 643,801 km² and have a total population of over 68 million as of January 2023. France is a unitary semi-presidential republic with its capital in Paris.\n\n
+        Metropolitan France was settled during the Iron Age by Celtic tribes known as Gauls before Rome annexed the area in 51 BC, leading to a distinct Gallo-Roman culture. In the Early Middle Ages, the Germanic Franks formed the Kingdom of Francia, which became the heartland of the Carolingian Empire. The Treaty of Verdun of 843 partitioned the empire, with West Francia evolving into the Kingdom of France. In the High Middle Ages, France was a powerful but decentralized feudal kingdom, but from the mid-14th to the mid-15th centuries, France was plunged into a dynastic conflict with England known as the Hundred Years\' War. In the 16th century, the French Renaissance saw culture flourish and a French colonial empire rise. Internally, France was dominated by the conflict with the House of Habsburg and the French Wars of Religion. France was successful in the Thirty Years\' War and further increased its influence during the reign of Louis XIV.\n\n
+        The French Revolution of 1789 overthrew the Ancien Régime and produced the Declaration of the Rights of Man. France reached its political and military zenith in the early 19th century under Napoleon Bonaparte, subjugating part of continental Europe and establishing the First French Empire. The collapse of the empire initiated a period of relative decline, in which France endured a tumultuous succession of governments until the founding of the French Third Republic. Subsequent decades saw a period of economic prosperity and cultural and scientific flourishing known as the Belle Époque. France was one of the major participants of World War I. It was among the Allied powers of World War II, but it surrendered and was occupied by the Axis in 1940. Following its liberation in 1944, the short-lived Fourth Republic was established and later dissolved in the course of the defeat in the Algerian War. The current Fifth Republic was formed in 1958 by Charles de Gaulle.\n\n
+        France retains its centuries-long status as a global centre of art, science, and philosophy. It hosts the third-largest number of UNESCO World Heritage Sites and is the world\'s leading tourist destination, receiving over 89 million foreign visitors in 2018. France is a developed country with a high nominal per capita income globally and its advanced economy ranks among the largest in the world. It is a great power in global affairs, being one of the five permanent members of the UN Security Council and an official nuclear-weapon state. France is a founding and leading member of the European Union and the eurozone, as well as a key member of the Group of Seven, North Atlantic Treaty Organization (NATO), Organisation for Economic Co-operation and Development (OECD), and Francophonie.\n
+    </string>
+    <string name="italy">
+        <b>Capital:</b>\tRome \n
+        <b>Largest City:</b>\t\t\t\t\t\t\t\t\t\t\t Rome \n
+        <b>National Language:</b>\t Italian \n
+        <b>Total Area:</b>\t 302.07K km² \n
+        <b>Currency:</b>\t EUR \n\n
+        Italy, officially the Italian Republic, is a country in Southern and Western Europe. Located in the middle of the Mediterranean Sea, it consists of a peninsula delimited by the Alps and surrounded by several islands. Italy shares land borders with France, Switzerland, Austria, Slovenia and the enclaved microstates of Vatican City and San Marino. The country covers an area of 301,340 km² with a population of nearly 60 million. it is the tenth-largest country by land area in the European continent and the third-most populous member state of the European Union. Its capital and largest city is Rome.\n\n
+        The Latin city of Rome in central Italy, founded as a Kingdom, became a Republic that conquered the Mediterranean world and ruled it for centuries as an Empire. With the spread of Christianity, Rome became the seat of the Catholic Church and of the Papacy. During the Early Middle Ages, Italy experienced the fall of the Western Roman Empire and inward migration from Germanic tribes. The Italian Renaissance flourished in Florence during the 15th and 16th centuries and spread to the rest of Europe. Italian explorers also discovered new routes to the Far East and the New World, helping to usher in the European Age of Discovery. However, centuries of rivalry and infighting between the Italian city-states among other factors left the peninsula divided into numerous states until the late modern period.\n\n
+        After centuries of political and territorial divisions, Italy was almost entirely unified in 1861 following Wars of independence and the Expedition of the Thousand. From the late 19th century to the early 20th century, Italy rapidly industrialised, mainly in the north, and acquired a colonial empire, while the south remained largely impoverished. From 1915 to 1918, Italy took part in World War I on the side of the Entente and against the Central Powers. In 1922, following a period of crisis and turmoil, the Italian fascist dictatorship was established. During World War II, Italy was first part of the Axis until it surrendered to the Allied powers (1940–1943) and then, as part of its territory was occupied by Nazi Germany. Following the end of the war, the country replaced the monarchy with a republic via referendum and enjoyed a prolonged economic boom, becoming a major advanced economy.\n\n
+        Italy has the eighth-largest nominal GDP in the world, the second-largest manufacturing industry in Europe (7th-largest in the world). The country has a significant role in regional and global economic, military, cultural, and diplomatic affairs. Italy is a founding and leading member of the European Union, and it is in numerous international institutions including NATO, the G7, the Mediterranean Union, and the Latin Union. The source of many inventions and discoveries, the country is considered a cultural superpower and has long been a global centre of art, music, literature, cuisine, science and technology, and fashion. It has the world\'s largest number of World Heritage Sites, and is the world\'s fifth-most visited country.\n
+    </string>
+    <string name="pakistan">
+        <b>Capital:</b>\t Islamabad \n
+        <b>Largest City:</b>\t Karachi \n
+        <b>National Language:</b>\t Urdu \n
+        <b>Total Area:</b>\t 881,913 km2 \n
+        <b>Currency:</b>\t PKR \n\n
+        Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the largest Muslim population as of 2023. Islamabad is the nation\'s capital, while Karachi is its largest city and financial centre. Pakistan is the 33rd-largest country by area, being the second largest in South Asia. Bounded by the Arabian Sea on the south, the Gulf of Oman on the southwest, and the Sir Creek on the southeast, it shares land borders with India to the east; Afghanistan to the west; Iran to the southwest; and China to the northeast. It shares a maritime border with Oman in the Gulf of Oman, and is separated from Tajikistan in the northwest by Afghanistan\'s narrow Wakhan Corridor.\n\n
+        Pakistan is the site of several ancient cultures, including the 8,500-year-old Neolithic site of Mehrgarh in Balochistan, the Indus Valley civilisation of the Bronze Age, and the ancient Gandhara civilisation. The regions that comprise the modern state of Pakistan were the realm of multiple empires and dynasties, including the Achaemenid, the Maurya, the Kushan, the Gupta; the Umayyad Caliphate, the Samma, the Hindu Shahis, the Shah Miris, the Ghaznavids, the Delhi Sultanate, the Mughals, and most recently, the British Raj from 1858 to 1947.\n\n
+        Spurred by the Pakistan Movement, which sought a homeland for the Muslims of British India, and election victories in 1946 by the All-India Muslim League, Pakistan gained independence in 1947 after the Partition of the British Indian Empire, which awarded separate statehood to its Muslim-majority regions and was accompanied by an unparalleled mass migration and loss of life. Initially a Dominion of the British Commonwealth, Pakistan officially drafted its constitution in 1956, and emerged as a declared Islamic republic. In 1971, the exclave of East Pakistan seceded as the new country of Bangladesh after a nine-month-long civil war.\n\n
+        Pakistan is considered a middle power nation, with the world\'s sixth-largest standing armed forces. It is a nuclear-weapons state, and is ranked amongst the emerging and growth-leading economies. It is an ethnically and linguistically diverse country, with similarly diverse geography and wildlife. The country continues to face challenges, including poverty, illiteracy, corruption, and terrorism. Pakistan is a member of the UN, the Shanghai Cooperation Organisation, the OIC, the Commonwealth of Nations, the South Asian Association for Regional Cooperation, and the Islamic Military Counter-Terrorism Coalition.\n
+    </string>
+
+    <string name="quaid">
+        <b>Nationality:</b>\t Pakistan \n
+        <b>Period:</b>\t 25 December 1876-11 September 1948 \n
+        <b>Profession:</b>\t Barrister - Politician \n\n
+        Muhammad Ali Jinnah (25 December 1876 – 11 September 1948) was a barrister, politician, and the founder of Pakistan. Jinnah served as the leader of the All-India Muslim League from 1913 until the inception of Pakistan on 14 August 1947, and then as the Dominion of Pakistan\'s first Governor-General until his death.\n\n
+        Born at Wazir Mansion in Karachi, Jinnah was trained as a barrister at Lincoln\'s Inn in London, England. Upon his return to India, he enrolled at the Bombay High Court, and took an interest in national politics, which eventually replaced his legal practice. In early years of his political career, Jinnah advocated Hindu–Muslim unity, helping to shape the 1916 Lucknow Pact between the Congress and the All-India Muslim League. He became a key leader in the All-India Home Rule League, and proposed a fourteen-point constitutional reform plan to safeguard the political rights of Muslims in the Indian subcontinent. In 1920, however, Jinnah resigned from the Congress when it agreed to follow a campaign of satyagraha, which he regarded as political anarchy.\n\n
+        By 1940, Jinnah had come to believe that the Muslims of the subcontinent should have their own state to avoid the marginalised status they may gain in an independent Hindu–Muslim state. In that year, the Muslim League passed the Lahore Resolution, demanding a separate nation for Indian Muslims. During the Second World War, the League gained strength and in the provincial elections held shortly after the war, it won most of the seats reserved for Muslims. Ultimately, the Congress and the Muslim League could not reach a power-sharing formula that would allow the entirety of British India to be united as a single state following independence.\n\n
+        As the first governor-general of Pakistan, Jinnah worked to establish the new nation\'s government and policies, and to aid the millions of Muslim migrants who had emigrated after independence, personally supervising the establishment of refugee camps. Jinnah died at age 71 in September 1948, just a year after Pakistan gained independence from the UK. He left a deep and respected legacy in Pakistan.\n
+    </string>
+    <string name="mandela">
+        <b>Nationality:</b>\t South Africa \n
+        <b>Period:</b>\t 18 July 1918-5 December 2013 \n
+        <b>Profession:</b>\t Activist - Lawyer \n\n
+        Nelson Rolihlahla Mandela was a South African anti-apartheid activist and politician who served as the first president of South Africa from 1994 to 1999. He was the country\'s first black head of state. His government focused on dismantling apartheid by fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.\n\n
+        A Xhosa, Mandela was born into the Thembu royal family in Mvezo, South Africa. He studied law at the University of Fort Hare and the University of Witwatersrand before working as a lawyer in Johannesburg. There he became involved in anti-colonial and African nationalist politics, joining the ANC in 1943 and co-founding its Youth League in 1944. After the National Party\'s white-only government established apartheid, Mandela and the ANC committed themselves to its overthrow. He was repeatedly arrested for seditious activities. Influenced by Marxism, he secretly joined the banned South African Communist Party (SACP). Although initially committed to non-violent protest, in association with the SACP he co-founded the militant uMkhonto we Sizwe in 1961 and led a sabotage campaign against the government. He was arrested and imprisoned in 1962 and was sentenced to life imprisonment for conspiring to overthrow the state.\n\n
+        Mandela served 27 years in prison. Amid growing domestic and international pressure and fears of racial civil war, President F. W. de Klerk released him in 1990. Mandela and de Klerk led efforts to negotiate an end to apartheid, which resulted in the 1994 multiracial general election in which Mandela led the ANC to victory and became president. Mandela emphasised reconciliation between the country\'s racial groups and created the Truth and Reconciliation Commission to investigate past human rights abuses. Internationally, Mandela acted as mediator in the Pan Am Flight 103 bombing trial and served as secretary-general of the Non-Aligned Movement from 1998 to 1999. He declined a second presidential term and was succeeded by Thabo Mbeki. Mandela became an elder statesman and focused on combating poverty and HIV/AIDS through the charitable Nelson Mandela Foundation.\n\n
+        Mandela was a controversial figure for much of his life. Although critics on the right denounced him as a communist terrorist and those on the far left deemed him too eager to negotiate and reconcile with apartheid\'s supporters, he gained international acclaim for his activism. Globally, he received more than 250 honours, including the Nobel Peace Prize. He is held in deep respect within South Africa, where he is often referred to as Madiba and described as the \"Father of the Nation\".\n
+    </string>
+    <string name="davinci">
+        <b>Nationality:</b>\t Italy \n
+        <b>Period:</b>\t 15 April 1452-2 May 1519 \n
+        <b>Profession:</b>\t Painter - Sculptor \n\n
+        Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he has also become known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and paleontology. Leonardo is widely regarded to have been a genius who epitomized the Renaissance humanist ideal, and his collective works comprise a contribution to later generations of artists matched only by that of his younger contemporary Michelangelo.\n\n
+        Born out of wedlock to a successful notary and a lower-class woman in, or near, Vinci, he was educated in Florence by the Italian painter and sculptor Andrea del Verrocchio. He began his career in the city, but then spent much time in the service of Ludovico Sforza in Milan. Later, he worked in Florence and Milan again, as well as briefly in Rome, all while attracting a large following of imitators and students. Upon the invitation of Francis I, he spent his last three years in France, where he died in 1519. Since his death, there has not been a time where his achievements, diverse interests, personal life, and empirical thinking have failed to incite interest and admiration, making him a frequent namesake and subject in culture.\n\n
+        Leonardo is identified as one of the greatest painters in the history of art and is often credited as the founder of the High Renaissance. Despite having many lost works and fewer than 25 attributed major works – including numerous unfinished works – he created some of the most influential paintings in Western art. His magnum opus, the Mona Lisa, is his best known work and often regarded as the world\'s most famous painting. The Last Supper is the most reproduced religious painting of all time and his Vitruvian Man drawing is also regarded as a cultural icon. In 2017, Salvator Mundi, attributed in whole or part to Leonardo, was sold at auction for US$450.3 million, setting a new record for the most expensive painting ever sold at public auction.\n
+    </string>
+    <string name="newton">
+        <b>Nationality:</b>\t England \n
+        <b>Period:</b>\t 4 January 1643-31 March 1727 \n
+        <b>Profession:</b>\t Mathematician - Physicist \n\n
+        Sir Isaac Newton FRS was an English polymath active as a mathematician, physicist, astronomer, alchemist, theologian, and author who was described in his time as a natural philosopher. He was a key figure in the Scientific Revolution and the Enlightenment that followed. His pioneering book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, consolidated many previous results and established classical mechanics. Newton also made seminal contributions to optics, and shares credit with German mathematician Gottfried Wilhelm Leibniz for developing infinitesimal calculus, though he developed calculus years before Leibniz. He is considered one of the greatest and most influential scientists in history.\n\n
+        In the Principia, Newton formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity. Newton used his mathematical description of gravity to derive Kepler\'s laws of planetary motion, account for tides, the trajectories of comets, the precession of the equinoxes and other phenomena, eradicating doubt about the Solar System\'s heliocentricity. He demonstrated that the motion of objects on Earth and celestial bodies could be accounted for by the same principles. Newton\'s inference that the Earth is an oblate spheroid was later confirmed by the geodetic measurements of Maupertuis, La Condamine, and others, convincing most European scientists of the superiority of Newtonian mechanics over earlier systems.\n\n
+        Newton built the first practical reflecting telescope and developed a sophisticated theory of colour based on the observation that a prism separates white light into the colours of the visible spectrum. His work on light was collected in his highly influential book Opticks, published in 1704. He also formulated an empirical law of cooling, made the first theoretical calculation of the speed of sound, and introduced the notion of a Newtonian fluid. In addition to his work on calculus, as a mathematician Newton contributed to the study of power series, generalised the binomial theorem to non-integer exponents, developed a method for approximating the roots of a function, and classified most of the cubic plane curves.\n
+    </string>
+
+    <string name="istanbul">
+        <b>Country:</b>\t Turkey \n\n
+        <b>Cuisine:</b>\t Baklava, Lahmacun, Ezme, Menemen \n\n
+        <b>Top Places to Visit</b>\n\n
+        1. Blue Mosque \n
+        2. Basilica Cistern \n
+        3. Hagia Sophia \n
+        4. Emirgan Park \n
+        5. Topkapi Palace \n
+        6. Kariye Museum \n
+        7. Bosphorus Bridge \n
+        8. Belgrad Forest \n
+        9. Taksim Square \n
+        10. Maiden\'s Tower \n
+    </string>
+    <string name="mexico">
+        <b>Country:</b>\t Mexico \n\n
+        <b>Cuisine:</b>\t Tacos, Chilaquiles, Barbacoa, Tamales \n\n
+        <b>Top Places to Visit </b>\n\n
+        1. Metropolitan Cathedral \n
+        2. Chapultepec Park \n
+        3. National History Museum \n
+        4. Teotihuacan \n
+        5. Zócalo \n
+        6. Frida Kahlo Museum \n
+        7. Arena Mexico \n
+        8. San Angel \n
+        9. Museum of Tequila and Mezcal \n
+        10. Chapultepec Castle \n
+    </string>
+    <string name="taipei">
+        <b>Country:</b>\t Taiwan \n\n
+        <b>Cuisine:</b>\t Beef Noddle Soup, Misua, Goose Rice, Baozi \n\n
+        <b>Top Places to Visit</b>\n\n
+        1. Elephant Mountain \n
+        2. Taipei 101 \n
+        3. Shifen Waterfall \n
+        4. Fort San Domingo \n
+        5. Yangmingshan National Park \n
+        6. National Palace Museum \n
+        7. Beitou Thermal Valley \n
+        8. Daan Forest Park \n
+        9. Yehliu Geopark Rock Formations \n
+        10. Maokong Gondola \n
+    </string>
+    <string name="cape_town">
+        <b>Country:</b>\t South Africa \n\n
+        <b>Cuisine:</b>\t Bunny Chow, Bobotie, Malva Pudding, Braai \n\n
+        <b>Top Places to Visit</b>\n\n
+        1. Boulders Beach Penguin Colony \n
+        2. Diamond Museum \n
+        3. Two Oceans Aquarium \n
+        4. Table Mountain \n
+        5. Giant Cape Wheel \n
+        6. Robben Island \n
+        7. Castle of Good Hope \n
+        8. Zeitz MOCAA \n
+        9. Bo-Kaap \n
+        10. Llandudno Beach \n
+    </string>
+
+    <string name="china_wall">
+        <b>Location:</b>\t China \n
+        <b>Year Made:</b>\t Around 2,700 years old \n
+        <b>Other Names:</b>\t Frontier, Barrier, Long Ramparts \n
+        <b>Visitors Per Year:</b>\t 10 million visitors \n\n
+        The Great Wall of China (literally \"ten thousand li long wall\") is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined by Qin Shi Huang (220–206 BC), the first emperor of China. Little of the Qin wall remains. Later on, many successive dynasties built and maintained multiple stretches of border walls. The best-known sections of the wall were built by the Ming dynasty (1368–1644).\n\n
+        Apart from defense, other purposes of the Great Wall have included border controls, allowing the imposition of duties on goods transported along the Silk Road, regulation or encouragement of trade and the control of immigration and emigration. Furthermore, the defensive characteristics of the Great Wall were enhanced by the construction of watchtowers, troop barracks, garrison stations, signaling capabilities through the means of smoke or fire, and the fact that the path of the Great Wall also served as a transportation corridor.\n\n
+        The frontier walls built by different dynasties have multiple courses. Collectively, they stretch from Liaodong in the east to Lop Lake in the west, from the present-day Sino–Russian border in the north to Tao River (Taohe) in the south; along an arc that roughly delineates the edge of the Mongolian steppe; spanning 21,196.18 km in total. Today, the defensive system of the Great Wall is generally recognized as one of the most impressive architectural feats in history.\n
+    </string>
+    <string name="petra">
+        <b>Location:</b>\t Jordan \n
+        <b>Year Made:</b>\t Possibly 5th Century BC \n
+        <b>Other Names:</b>\t Raqmu, Rock, Rose City \n
+        <b>Visitors Per Year:</b>\t 236,088 tourists \n\n
+        Petra originally known to its inhabitants as Raqmu or Raqemo, is a historic and archaeological city in southern Jordan. Famous for its rock-cut architecture and water conduit system, Petra is also called the \"Rose City\" because of the color of the sandstone from which it is carved. It was famously called \"a rose-red city half as old as time\" in a poem of 1845 by John Burgon. It is adjacent to the mountain of Jabal Al-Madbah, in a basin surrounded by mountains forming the eastern flank of the Arabah valley running from the Dead Sea to the Gulf of Aqaba. Access to the city is through a famously picturesque 1.2-km-long gorge called the Siq, which leads directly to the Khazneh.\n\n
+        The area around Petra has been inhabited from as early as 7000 BC, and the Nabataeans might have settled in what would become the capital city of their kingdom as early as the 4th century BC. Archaeological work has only discovered evidence of Nabataean presence dating back to the second century BC, by which time Petra had become their capital. The Nabataeans were nomadic Arabs who invested in Petra\'s proximity to the incense trade routes by establishing it as a major regional trading hub.\n\n
+        The trading business gained the Nabataeans considerable revenue and Petra became the focus of their wealth. Unlike their enemies, the Nabataeans were accustomed to living in the barren deserts and were able to repel attacks by taking advantage of the area\'s mountainous terrain. They were particularly skillful in harvesting rainwater, agriculture, and stone carving. Petra flourished in the 1st century AD, when its Al-Khazneh structure, possibly the mausoleum of Nabataean king Aretas IV, was constructed, and its population peaked at an estimated 20,000 inhabitants. Most of the famous rock-cut buildings, which are mainly tombs, date from this and the following period. Much less remains of the free-standing buildings of the city.\n
+    </string>
+    <string name="machu_picchu">
+        <b>Location:</b>\t Peru \n
+        <b>Year Made:</b>\t 1572 \n
+        <b>Other Names:</b>\t Lost City of the Incas, Machupicchu, Machupijchu \n
+        <b>Visitors Per Year:</b>\t 979 thousand people \n\n
+        Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter mountain ridge. Often referred to as the \"Lost City of the Incas\", it is the most familiar icon of the Inca Empire. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 km northwest of Cusco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate.\n\n
+        The Inca civilization had no written language and following the first encounter by the Spanish soldier Baltasar Ocampo, no Europeans are recorded to have visited the site from the late 16th century until the 19th century. As far as historical knowledge extends, there are no existing written records detailing the site during its period of active use. The names of the buildings, their supposed uses, and their inhabitants, are the product of modern archaeologists based on physical evidence, including tombs at the site. Machu Picchu was built in the classical Inca style, with polished dry-stone walls. Its three primary structures are the Intihuatana, the Temple of the Sun, and the Temple of the Three Windows. Most of the outlying buildings have been reconstructed in order to give visitors a better idea of how they originally appeared. By 1976, 30 percent of Machu Picchu had been restored and restoration continues. Most recent archaeologists believe that Machu Picchu was constructed as an estate for the Inca emperor Pachacuti (1438–1472). The Incas built the estate around 1450 but abandoned it a century later, at the time of the Spanish conquest. According to the new AMS radiocarbon dating, it was occupied from c. 1420–1532. Historical research published in 2022 claims that the site was probably called Huayna Picchu by the Inca people themselves, as it exists on the smaller peak of the same name.\n\n
+        Machu Picchu was declared a Peruvian Historic Sanctuary in 1982 and a UNESCO World Heritage Site in 1983. In 2007, Machu Picchu was voted one of the New Seven Wonders of the World in a worldwide internet poll.\n
+    </string>
+    <string name="colosseum">
+        <b>Location:</b>\t Italy \n
+        <b>Year Made:</b>\t 70–80 AD \n
+        <b>Other Names:</b>\t The Flavian Amphitheater, Amphitheatrum Caesareum \n
+        <b>Visitors Per Year:</b>\t Six million visitors \n\n
+        The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age. Construction began under the emperor Vespasian in 72 AD and was completed in 80 AD under his successor and heir, Titus. Further modifications were made during the reign of Domitian. The three emperors who were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre by later classicists and archaeologists for its association with their family name (Flavius).\n\n
+        The Colosseum is built of travertine limestone, tuff, volcanic rock, and brick-faced concrete. It could hold an estimated 50,000 to 80,000 spectators at various points in its history, having an average audience of some 65,000. It was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, and dramas based on Roman mythology, and briefly mock sea battles. The building ceased to be used for entertainment in the early medieval era. It was later reused for such purposes as housing, workshops, quarters for a religious order, a fortress, a quarry, and a Christian shrine.\n\n
+        Although substantially ruined by earthquakes and stone robbers taking spolia, the Colosseum is still a renowned symbol of Imperial Rome and was listed as one of the New 7 Wonders of the World. It is one of Rome\'s most popular tourist attractions and has links to the Catholic Church, as each Good Friday the Pope leads a torchlit \"Way of the Cross\" procession that starts in the area around the Colosseum. The Colosseum is depicted on the Italian version of the 5 euro cent coin.\n
+    </string>
+    <string name="christ">
+        <b>Location:</b>\t Brazil \n
+        <b>Year Made:</b>\t October 13, 1931 \n
+        <b>Visitors Per Year:</b>\t Two million visitors \n\n
+        Christ The Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French-Polish sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot. Romanian sculptor Gheorghe Leonida sculpted the face. Constructed between 1922 and 1931, the statue is 30 metres or 98 ft high, excluding its 8-metre or 26 ft pedestal. The arms stretch 28 metres or 92 ft wide. It is made of reinforced concrete and soapstone.\n\n
+        Christ The Redeemer differs considerably from its original design, as the initial plan was a large Christ with a globe in one hand and a cross in the other. Although the project organisers originally accepted the design, it later changed to the statue of today, with the arms spread out wide.\n\n
+        The statue weighs 635 metric tons and is located at the peak of the 700-metre or 2,300 ft Corcovado mountain in the Tijuca National Park overlooking the city of Rio de Janeiro. This statue is the largest Art Deco style sculpture in the world. A symbol of Christianity around the world, the statue has also become a cultural icon of both Rio de Janeiro and Brazil and was voted one of the New 7 Wonders of the World.\n
+    </string>
+
+</resources>
